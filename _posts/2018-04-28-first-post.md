@@ -1,6 +1,6 @@
 ---
 title: Confectionerty and Bakery's Certificate Exam Pass 
-author: Chris
+author: Kouhucu
 layout: post
 ---
 <img src="{{ 'assets/images/bakery_certificate_pass.jpg' | relative_url }}" alt="" />
