@@ -3,7 +3,7 @@ title: Confectionerty and Bakery's Certificate Exam Pass
 author: Kouhucu
 layout: post
 ---
-<img src="{{ 'assets/images/bakery_certificate_pass.jpg' | relative_url }}" alt="" />
+<img src="{{ 'assets/images/bakery_certificate_pass.PNG' | relative_url }}" alt="" />
 
 I passed an certificate exam of confectionerty and bakery which I want to take today.
 
